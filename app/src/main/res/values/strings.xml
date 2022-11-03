@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Projeto Capacitacao</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_phone">Enter your phone number</string>
+    <string name="hint_email">Enter your email address</string>
+    <string name="hint_cpf">Enter your CPF number</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="hint_confirmPassword">Confirm your password</string>
+    <string name="agreement_terms">I agree with the Terms of Service and Privacy Policy Information</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
